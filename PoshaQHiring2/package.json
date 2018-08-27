@@ -1,0 +1,17 @@
+{
+  "name": "poshaqhiring",
+  "version": "1.0.0",
+  "description": "This is a task assigned by the PoshaQ for hiring 2018.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "body-parser": "*",
+    "express": "*",
+    "mongoose": "*",
+    "nodemon": "^1.18.3"
+  },
+  "author": "Nikhil Patel",
+  "license": "ISC"
+}
