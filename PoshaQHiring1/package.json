@@ -1,0 +1,18 @@
+{
+  "name": "poshaqhiring1",
+  "version": "1.0.0",
+  "description": "Task 1",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "body-parser": "*",
+    "express": "*",
+    "lodash": "^4.17.10",
+    "mongoose": "*",
+    "nodemon": "^1.18.3"
+  },
+  "author": "Nikhil Patel",
+  "license": "ISC"
+}
